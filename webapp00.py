@@ -13,4 +13,4 @@ st.header("TROPA DO CALVO")
 st.subheader("CAPO = NERD")
 
 # Use st.write("") para adicionar um texto ao seu Web app
-st.write("Como já deve ter percebido o CAPOVILLA é nerdão") 
+st.write("Como já deve ter percebido o CAPOVILLA é nerdão (_)") 
